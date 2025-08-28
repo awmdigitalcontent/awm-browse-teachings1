@@ -1,0 +1,296 @@
+{
+  "success": true,
+  "page": 13,
+  "limit": 12,
+  "total": 181,
+  "totalPages": 16,
+  "count": 12,
+  "teachings": [
+    {
+      "title": "The Importance of the Holy Spirit",
+      "description": "Many Christians view faith merely as a way to escape hell,  but the Holy Spirit promises radical transformation and victory here and now.",
+      "redirect": "https://www.awmi.net/browse-teaching/the-importance-of-the-holy-spirit",
+      "category": "holy-spirit",
+      "search_tags": [
+        "importance holy spirit",
+        "escape hell",
+        "radical transformation",
+        "victory here now"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-importance-of-the-holy-spirit"
+    },
+    {
+      "title": "The Miracle of Christmas: Reflections with the Murens",
+      "description": "Discover the heart of Christmas in this inspiring interview with Robert and Elizabeth Muren. Reflect on the miracle of Jesus' humble arrival,  the transformative power of creative ministry,  and the timeless message of God's love and grace for all.",
+      "redirect": "https://www.awmi.net/browse-teaching/the-miracle-of-christmas-reflections-with-the-murens",
+      "category": "christian-living",
+      "search_tags": [
+        "miracle of christmas",
+        "reflections murens",
+        "heart of christmas",
+        "jesus humble arrival",
+        "gods love grace"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-miracle-of-christmas-reflections-with-the-murens"
+    },
+    {
+      "title": "The New You and the Holy Spirit",
+      "description": "Learn what the Bible has to say about the Holy Spirit's role in your life. This is crucial to a successful walk with God.",
+      "redirect": "https://www.awmi.net/browse-teaching/the-new-you-and-the-holy-spirit/",
+      "category": "holy-spirit",
+      "search_tags": [
+        "new you holy spirit",
+        "bible says",
+        "holy spirits role",
+        "crucial successful walk"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-new-you-and-the-holy-spirit"
+    },
+    {
+      "title": "The Old Man Is Dead",
+      "description": "Discover freedom in Christ: Understand Paul's teachings on our old self,  embrace transformation,  and live a victorious life.",
+      "redirect": "https://www.awmi.net/browse-teaching/the-old-man-is-dead",
+      "category": "salvation",
+      "search_tags": [
+        "old man is dead",
+        "freedom christ",
+        "pauls teachings",
+        "old self",
+        "victorious life"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-old-man-is-dead"
+    },
+    {
+      "title": "The Parable of the Unjust Steward",
+      "description": "Explore the surprising lessons from Jesus' parable about money and stewardship. Discover the deeper truths behind the master's commendation.",
+      "redirect": "https://www.awmi.net/browse-teaching/the-parable-of-the-unjust-steward",
+      "category": "bible-study",
+      "search_tags": [
+        "parable unjust steward",
+        "surprising lessons",
+        "money stewardship",
+        "deeper truths",
+        "masters commendation"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-parable-of-the-unjust-steward"
+    },
+    {
+      "title": "The Power of a Gift",
+      "description": "A gift can open up doors for you and provide blessings to you.",
+      "redirect": "https://www.awmi.net/browse-teaching/the-power-of-a-gift",
+      "category": "finances",
+      "search_tags": [
+        "power of gift",
+        "open doors",
+        "provide blessings",
+        "gift giving"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-power-of-a-gift"
+    },
+    {
+      "title": "The Power of Imagination",
+      "description": "If you worry 24/7,  you're using your imagination in a negative way. Turn everything around in your life for the better with a positive imagination of hope!",
+      "redirect": "https://www.awmi.net/browse-teaching/the-power-of-imagination",
+      "category": "emotions",
+      "search_tags": [
+        "power of imagination",
+        "worry 24 7",
+        "negative way",
+        "positive imagination",
+        "hope"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-power-of-imagination"
+    },
+    {
+      "title": "The Power of Partnership",
+      "description": "Did you know there is power in partnership? Learn how to put that power to work for you and receive abundance and blessings in your life!",
+      "redirect": "https://www.awmi.net/browse-teaching/the-power-of-partnership",
+      "category": "finances",
+      "search_tags": [
+        "power of partnership",
+        "power in partnership",
+        "put to work",
+        "abundance blessings"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-power-of-partnership"
+    },
+    {
+      "title": "The Power of the Cross",
+      "description": "Transform your understanding of the cross. Discover the deeper significance of Jesus' sacrifice beyond just avoiding hell in this teaching.",
+      "redirect": "https://www.awmi.net/browse-teaching/the-power-of-the-cross",
+      "category": "salvation",
+      "search_tags": [
+        "power of cross",
+        "transform understanding",
+        "deeper significance",
+        "jesus sacrifice",
+        "avoiding hell"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-power-of-the-cross"
+    },
+    {
+      "title": "The Present Day Ministry of the Holy Spirit",
+      "description": "Discover the true role of the Holy Spirit in your life. This teaching reveals His power,  gifts,  and essential support for believers.",
+      "redirect": "https://www.awmi.net/browse-teaching/the-present-day-ministry-of-the-holy-spirit",
+      "category": "holy-spirit",
+      "search_tags": [
+        "present day ministry",
+        "holy spirit role",
+        "power gifts",
+        "essential support",
+        "believers"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-present-day-ministry-of-the-holy-spirit"
+    },
+    {
+      "title": "The Reality of Faith",
+      "description": "Though you can't touch it,  faith is real. Are you ready to experience the reality of faith and watch unseen miracles become visible in your life? Find out how!",
+      "redirect": "https://www.awmi.net/browse-teaching/the-reality-of-faith",
+      "category": "faith",
+      "search_tags": [
+        "reality of faith",
+        "cant touch",
+        "faith real",
+        "unseen miracles",
+        "become visible"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-reality-of-faith"
+    },
+    {
+      "title": "The Resurrection Changes Everything (2023)",
+      "description": "Explore the resurrection's power in Christianity. Andrew's teaching reveals your authority in Christ through the truth of the empty tomb.",
+      "redirect": "https://www.awmi.net/browse-teaching/the-resurrection-changes-everything-2023",
+      "category": "salvation",
+      "search_tags": [
+        "resurrection changes everything",
+        "resurrections power",
+        "authority christ",
+        "empty tomb"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-resurrection-changes-everything-2023"
+    }
+  ],
+  "hasNextPage": true,
+  "hasPrevPage": true,
+  "lastUpdated": "2025-08-28T16:23:04.828Z"
+}
