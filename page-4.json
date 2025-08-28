@@ -1,0 +1,288 @@
+{
+  "success": true,
+  "page": 4,
+  "limit": 12,
+  "total": 181,
+  "totalPages": 16,
+  "count": 12,
+  "teachings": [
+    {
+      "title": "Financial Stewardship",
+      "description": "Your attitude toward finances can lead to prosperity. Embrace stewardship,  sow generously,  and trust in God's provision. Develop the mindset of a steward today!",
+      "redirect": "https://www.awmi.net/browse-teaching/financial-stewardship",
+      "category": "finances",
+      "search_tags": [
+        "financial stewardship",
+        "prosperity"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "financial-stewardship"
+    },
+    {
+      "title": "Financial Stewardship: The Practical Side",
+      "description": "Did you know there are both spiritual and practical aspects to financial stewardship? Discover the steps you can take to experience true prosperity today!",
+      "redirect": "https://www.awmi.net/browse-teaching/financial-stewardship-the-practical-side",
+      "category": "finances",
+      "search_tags": [
+        "financial stewardship",
+        "practical"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "financial-stewardship-the-practical-side"
+    },
+    {
+      "title": "Four Basics of Hearing God's Voice",
+      "description": "Learn to hear God's voice for guidance and victory in life. Andrew shares four principles to tune into God effectively.",
+      "redirect": "https://www.awmi.net/browse-teaching/four-basics-of-hearing-gods-voice",
+      "category": "holy-spirit",
+      "search_tags": [
+        "hearing gods voice",
+        "four basics"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "four-basics-of-hearing-gods-voice"
+    },
+    {
+      "title": "Four Essential Elements of Christian Maturity",
+      "description": "Andrew Wommack teaches spiritual growth and faith for abundant living?knowledge and truth leading to freedom in Christ.",
+      "redirect": "https://www.awmi.net/browse-teaching/four-essential-elements-of-christian-maturity",
+      "category": "christian-living",
+      "search_tags": [
+        "christian maturity",
+        "four elements"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "four-essential-elements-of-christian-maturity"
+    },
+    {
+      "title": "Galatians",
+      "description": "Experience the liberating message of grace found in Galatians. Gain new insights and live free from condemnation!",
+      "redirect": "https://www.awmi.net/browse-teaching/galatians",
+      "category": "grace",
+      "search_tags": [
+        "galatians",
+        "grace"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "galatians"
+    },
+    {
+      "title": "Galatians,  Ephesians,  Philippians,  and Colossians",
+      "description": "Explore the teachings of the Apostle Paul on God's unconditional love and grace. Uncover God's love for you and deepen your relationship with Him!",
+      "redirect": "https://www.awmi.net/browse-teaching/galatians-ephesians-philippians-and-colossians",
+      "category": "grace",
+      "search_tags": [
+        "galatians ephesians philippians colossians",
+        "apostle paul",
+        "unconditional love",
+        "grace",
+        "deepen relationship"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "galatians-ephesians-philippians-and-colossians"
+    },
+    {
+      "title": "Getting Along with People",
+      "description": "Receiving God's love and sharing it with others unlocks the doors to healing,  deliverance,  and prosperity. Discover abundance and joy in your relationships!",
+      "redirect": "https://www.awmi.net/browse-teaching/getting-along-with-people",
+      "category": "relationships",
+      "search_tags": [
+        "getting along",
+        "people",
+        "gods love",
+        "sharing love",
+        "healing deliverance",
+        "relationships"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "getting-along-with-people"
+    },
+    {
+      "title": "God and Country",
+      "description": "What is America's true Christian heritage,  and why is it crucial to maintain an attitude of gratitude? Find out now!",
+      "redirect": "https://www.awmi.net/browse-teaching/god-and-country",
+      "category": "christian-living",
+      "search_tags": [
+        "god and country",
+        "america",
+        "christian heritage",
+        "attitude of gratitude",
+        "patriotism"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "god-and-country"
+    },
+    {
+      "title": "God Wants You to Succeed",
+      "description": "Redefine success through God's eyes,  walk in victory,  and follow His unique plan for your life. Walk in success daily!",
+      "redirect": "https://www.awmi.net/browse-teaching/god-wants-you-to-succeed",
+      "category": "christian-living",
+      "search_tags": [
+        "god wants success",
+        "redefine success",
+        "gods eyes",
+        "victory",
+        "unique plan",
+        "daily success"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "god-wants-you-to-succeed"
+    },
+    {
+      "title": "God Wants You Well",
+      "description": "How do you tap into God's healing power to transform your physical,  mental,  and emotional health? Find out now!",
+      "redirect": "https://www.awmi.net/browse-teaching/god-wants-you-well-2",
+      "category": "healing",
+      "search_tags": [
+        "god wants you well",
+        "healing power",
+        "physical health",
+        "mental health",
+        "emotional health"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "god-wants-you-well"
+    },
+    {
+      "title": "God's Kind of Love",
+      "description": "Experience the transformative power of God's unconditional love,  a revelation that will change your life forever. Receive His love and give it freely!",
+      "redirect": "https://www.awmi.net/browse-teaching/gods-kind-of-love",
+      "category": "love",
+      "search_tags": [
+        "gods kind of love",
+        "unconditional love",
+        "transformative power",
+        "receive love",
+        "give love"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "gods-kind-of-love"
+    },
+    {
+      "title": "God's Kind of Love in Marriage",
+      "description": "Missing the joy in your marriage? Transform your relationship with God's unconditional love and rediscover the joy and fulfillment in your marriage.",
+      "redirect": "https://www.awmi.net/browse-teaching/gods-kind-of-love-in-marriage",
+      "category": "relationships",
+      "search_tags": [
+        "gods love marriage",
+        "marriage joy",
+        "transform relationship",
+        "unconditional love",
+        "fulfillment"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "gods-kind-of-love-in-marriage"
+    }
+  ],
+  "hasNextPage": true,
+  "hasPrevPage": true,
+  "lastUpdated": "2025-08-28T16:23:04.828Z"
+}
