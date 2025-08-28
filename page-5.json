@@ -1,0 +1,309 @@
+{
+  "success": true,
+  "page": 5,
+  "limit": 12,
+  "total": 181,
+  "totalPages": 16,
+  "count": 12,
+  "teachings": [
+    {
+      "title": "God's Kind of Love Through You",
+      "description": "Understand God's love and let it flow through you. This series clears up misconceptions and guides you on how to do it.",
+      "redirect": "https://www.awmi.net/browse-teaching/gods-kind-of-love-through-you",
+      "category": "love",
+      "search_tags": [
+        "gods love through you",
+        "understand gods love",
+        "flow through you",
+        "misconceptions",
+        "love others"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "gods-kind-of-love-through-you"
+    },
+    {
+      "title": "God's Kind of Love to You",
+      "description": "Discover God's unconditional love beyond your behavior. Settle the issue of His constant love for you today.",
+      "redirect": "https://www.awmi.net/browse-teaching/gods-kind-of-love-to-you",
+      "category": "love",
+      "search_tags": [
+        "gods love to you",
+        "unconditional love",
+        "beyond behavior",
+        "constant love",
+        "gods acceptance"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "gods-kind-of-love-to-you"
+    },
+    {
+      "title": "God's Man,  Plan,  and Timing",
+      "description": "Discover how Moses was prepared for God's purpose in the Bible. Learn lessons on being usable for God.",
+      "redirect": "https://www.awmi.net/browse-teaching/gods-man-plan-and-timing",
+      "category": "christian-living",
+      "search_tags": [
+        "gods man plan timing",
+        "moses",
+        "prepared",
+        "gods purpose",
+        "usable for god"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "gods-man-plan-and-timing"
+    },
+    {
+      "title": "God's Word - the Seed of His Blessing",
+      "description": "God's Word is the life-changing seed of power for the victorious Christian life. Experience the power found in the Bible today!",
+      "redirect": "https://www.awmi.net/browse-teaching/gods-word-the-seed-of-his-blessing",
+      "category": "bible-study",
+      "search_tags": [
+        "gods word",
+        "seed of blessing",
+        "life changing",
+        "power",
+        "victorious christian life",
+        "bible power"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "gods-word-the-seed-of-his-blessing"
+    },
+    {
+      "title": "Gospel of Peace",
+      "description": "What is the good news of the Gospel? Find out now and discover the life-changing power of God's unconditional love and grace like never before!",
+      "redirect": "https://www.awmi.net/browse-teaching/gospel-of-peace",
+      "category": "grace",
+      "search_tags": [
+        "gospel of peace",
+        "good news",
+        "gospel",
+        "life changing power",
+        "unconditional love",
+        "grace"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "gospel-of-peace"
+    },
+    {
+      "title": "Grace and Faith in Giving",
+      "description": "Learn to trust God with your finances. Discover biblical insights that will transform your approach to giving.",
+      "redirect": "https://www.awmi.net/browse-teaching/grace-and-faith-in-giving",
+      "category": "finances",
+      "search_tags": [
+        "grace faith giving",
+        "trust god",
+        "finances",
+        "biblical insights",
+        "transform giving",
+        "financial stewardship"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "grace-and-faith-in-giving"
+    },
+    {
+      "title": "Grace: The Power of the Gospel",
+      "description": "In the book of Romans,  Paul gives an in-depth explanation of the Gospel of grace and faith. Unlock the power of the Gospel and be set free from legalism today!",
+      "redirect": "https://www.awmi.net/browse-teaching/grace-the-power-of-the-gospel",
+      "category": "grace",
+      "search_tags": [
+        "grace power gospel",
+        "romans",
+        "paul",
+        "gospel grace faith",
+        "unlock power",
+        "free from legalism"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "grace-the-power-of-the-gospel"
+    },
+    {
+      "title": "Great Awakening",
+      "description": "Explore Andrew Wommack's revelation about the Third Great Awakening. Discover how revival is already in progress despite worldly challenges.",
+      "redirect": "https://www.awmi.net/browse-teaching/great-awakening",
+      "category": "christian-living",
+      "search_tags": [
+        "great awakening",
+        "third great awakening",
+        "revelation",
+        "revival",
+        "worldly challenges",
+        "spiritual awakening"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "great-awakening"
+    },
+    {
+      "title": "Hardness of Heart",
+      "description": "Explore the Hardness of Heart series: understand the crisis,  cause,  and cure for a heart unresponsive to God.",
+      "redirect": "https://www.awmi.net/browse-teaching/hardness-of-heart",
+      "category": "christian-living",
+      "search_tags": [
+        "hardness of heart",
+        "crisis",
+        "cause",
+        "cure",
+        "unresponsive heart",
+        "heart condition"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "hardness-of-heart"
+    },
+    {
+      "title": "Harnessing Your Emotions",
+      "description": "Your life boils down to the way you think (Prov. 23:7). Renew your mind and transform your life!",
+      "redirect": "https://www.awmi.net/browse-teaching/harnessing-your-emotions",
+      "category": "emotions",
+      "search_tags": [
+        "harnessing emotions",
+        "way you think",
+        "renew mind",
+        "transform life",
+        "mind renewal"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "harnessing-your-emotions"
+    },
+    {
+      "title": "Healing & Niki's Miracle",
+      "description": "Uncover the truth about divine healing and experience God's miraculous power for yourself. Check out Niki's testimony!",
+      "redirect": "https://www.awmi.net/browse-teaching/healing-amp-nikis-miracle",
+      "category": "healing",
+      "search_tags": [
+        "healing",
+        "nikis miracle",
+        "divine healing",
+        "miraculous power",
+        "testimony",
+        "gods healing"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "healing-and-nikis-miracle"
+    },
+    {
+      "title": "Healing is the Children's Bread",
+      "description": "How do you receive healing through faith? Find out how God's healing power works!",
+      "redirect": "https://www.awmi.net/browse-teaching/healing-is-the-childrens-bread",
+      "category": "healing",
+      "search_tags": [
+        "healing",
+        "childrens bread",
+        "receive healing",
+        "faith",
+        "gods healing power",
+        "healing works"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "healing-is-the-childrens-bread"
+    }
+  ],
+  "hasNextPage": true,
+  "hasPrevPage": true,
+  "lastUpdated": "2025-08-28T16:23:04.828Z"
+}
