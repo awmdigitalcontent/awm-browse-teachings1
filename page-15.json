@@ -1,0 +1,299 @@
+{
+  "success": true,
+  "page": 15,
+  "limit": 12,
+  "total": 181,
+  "totalPages": 16,
+  "count": 12,
+  "teachings": [
+    {
+      "title": "What Pleases God",
+      "description": "Is pleasing God about faith or performance? Human effort will always fall short of God's perfection. Find grace,  acceptance,  and blessings solely in Christ Jesus!",
+      "redirect": "https://www.awmi.net/browse-teaching/what-pleases-god",
+      "category": "grace",
+      "search_tags": [
+        "what pleases god",
+        "faith or performance",
+        "human effort",
+        "grace acceptance",
+        "christ jesus"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "what-pleases-god"
+    },
+    {
+      "title": "What to Do When Your Prayers Seem Unanswered",
+      "description": "What's the real reason behind seemingly unanswered prayers? Delay doesn't mean denial. Discover the connection between God's timing and your faith!",
+      "redirect": "https://www.awmi.net/browse-teaching/what-to-do-when-your-prayers-seem-unanswered",
+      "category": "prayer",
+      "search_tags": [
+        "prayers seem unanswered",
+        "real reason",
+        "delay not denial",
+        "gods timing",
+        "your faith"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "what-to-do-when-your-prayers-seem-unanswered"
+    },
+    {
+      "title": "What's In Your Hand?",
+      "description": "Discover the power of faith in Elisha's story. Learn to focus on what you have and prepare for God's multiplication.",
+      "redirect": "https://www.awmi.net/browse-teaching/whats-in-your-hand",
+      "category": "faith",
+      "search_tags": [
+        "whats in your hand",
+        "power of faith",
+        "elishas story",
+        "focus what you have",
+        "gods multiplication"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "whats-in-your-hand"
+    },
+    {
+      "title": "Where Did I Come From?",
+      "description": "Find out the answers to some of life's biggest questions: Where did I come from? Who am I? And where am I going?",
+      "redirect": "https://www.awmi.net/browse-teaching/where-did-i-come-from",
+      "category": "christian-living",
+      "search_tags": [
+        "where did i come from",
+        "lifes biggest questions",
+        "who am i",
+        "where going"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "where-did-i-come-from"
+    },
+    {
+      "title": "Where Do We Go From Here?",
+      "description": "Andrew Wommack addresses America's moral crisis and global lessons from the 2020 elections,  urging biblical influence and responsibility.",
+      "redirect": "https://www.awmi.net/browse-teaching/where-do-we-go-from-here",
+      "category": "christian-living",
+      "search_tags": [
+        "where do we go",
+        "americas moral crisis",
+        "global lessons",
+        "2020 elections",
+        "biblical influence"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "where-do-we-go-from-here"
+    },
+    {
+      "title": "Who God Is And Who We Are",
+      "description": "Is God really like that? Discover the common misconceptions about God's nature that might be holding you back.",
+      "redirect": "https://www.awmi.net/browse-teaching/who-god-is-and-who-we-are",
+      "category": "christian-living",
+      "search_tags": [
+        "who god is",
+        "who we are",
+        "god really like",
+        "misconceptions gods nature",
+        "holding back"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "who-god-is-and-who-we-are"
+    },
+    {
+      "title": "Who Made Satan?",
+      "description": "Examine the startling evidence for who really made Satan and the authority you have over him as a born-again believer!",
+      "redirect": "https://www.awmi.net/browse-teaching/who-made-satan",
+      "category": "christian-living",
+      "search_tags": [
+        "who made satan",
+        "startling evidence",
+        "who made satan",
+        "authority over him",
+        "born again"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "who-made-satan"
+    },
+    {
+      "title": "Who Told You That You Were Naked?",
+      "description": "Overcome fear and guilt with Andrew's teaching on conscience. Discover truths for freedom and live a simpler,  victorious life.",
+      "redirect": "https://www.awmi.net/browse-teaching/who-told-you-that-you-were-naked",
+      "category": "emotions",
+      "search_tags": [
+        "who told naked",
+        "overcome fear guilt",
+        "teaching conscience",
+        "truths freedom",
+        "victorious life"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "who-told-you-that-you-were-naked"
+    },
+    {
+      "title": "Who You Are in the Spirit",
+      "description": "Understand your true identity as a new creation in Christ and be empowered to live a life of absolute victory and freedom!",
+      "redirect": "https://www.awmi.net/browse-teaching/who-you-are-in-the-spirit",
+      "category": "salvation",
+      "search_tags": [
+        "who you are spirit",
+        "true identity",
+        "new creation christ",
+        "absolute victory",
+        "freedom"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "who-you-are-in-the-spirit"
+    },
+    {
+      "title": "Whose Righteousness?",
+      "description": "Discover the true meaning of righteousness and why it's vital for your relationship with God!",
+      "redirect": "https://www.awmi.net/browse-teaching/whose-righteousness",
+      "category": "grace",
+      "search_tags": [
+        "whose righteousness",
+        "true meaning",
+        "righteousness vital",
+        "relationship with god"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "whose-righteousness"
+    },
+    {
+      "title": "Why,  When,  and Where to Give",
+      "description": "Why,  when,  and where should you give? Uncover what the Bible has to say about finances,  giving,  and being a godly steward of your resources!",
+      "redirect": "https://www.awmi.net/browse-teaching/why-when-and-where-to-give",
+      "category": "finances",
+      "search_tags": [
+        "why when where give",
+        "bible says",
+        "finances giving",
+        "godly steward",
+        "resources"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "why-when-and-where-to-give"
+    },
+    {
+      "title": "You've Already Got It!",
+      "description": "Discover the powerful truth: God has already provided healing,  prosperity,  and blessings. You don't need to beg; just believe. Find out how!",
+      "redirect": "https://www.awmi.net/browse-teaching/youve-already-got-it",
+      "category": "faith",
+      "search_tags": [
+        "youve already got it",
+        "powerful truth",
+        "already provided",
+        "dont beg believe",
+        "healing prosperity"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "youve-already-got-it"
+    }
+  ],
+  "hasNextPage": true,
+  "hasPrevPage": true,
+  "lastUpdated": "2025-08-28T16:23:04.828Z"
+}
