@@ -1,0 +1,298 @@
+{
+  "success": true,
+  "page": 14,
+  "limit": 12,
+  "total": 181,
+  "totalPages": 16,
+  "count": 12,
+  "teachings": [
+    {
+      "title": "The Sky is Not Falling",
+      "description": "Are those fear-mongering headlines reflecting reality? Discover the truth behind the headlines and start trusting in God's provision!",
+      "redirect": "https://www.awmi.net/browse-teaching/the-sky-is-not-falling",
+      "category": "christian-living",
+      "search_tags": [
+        "sky not falling",
+        "fear mongering headlines",
+        "reflecting reality",
+        "truth behind headlines",
+        "gods provision"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-sky-is-not-falling"
+    },
+    {
+      "title": "The True Gospel",
+      "description": "Explore how the Gospel shifts focus from sin to a deeper understanding of grace and true Christian living.",
+      "redirect": "https://www.awmi.net/browse-teaching/the-true-gospel",
+      "category": "grace",
+      "search_tags": [
+        "true gospel",
+        "gospel shifts focus",
+        "sin to grace",
+        "deeper understanding",
+        "christian living"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-true-gospel"
+    },
+    {
+      "title": "The True Nature of God",
+      "description": "Is God the harsh God of the Old Testament or the loving and merciful One of the New Testament? Uncover who God really is in this free teaching!",
+      "redirect": "https://www.awmi.net/browse-teaching/the-true-nature-of-god",
+      "category": "christian-living",
+      "search_tags": [
+        "true nature god",
+        "harsh god",
+        "old testament",
+        "loving merciful",
+        "new testament"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-true-nature-of-god"
+    },
+    {
+      "title": "The War is Over",
+      "description": "God's love put an end to the conflict between God and humanity! Discover the truth that has reshaped history.",
+      "redirect": "https://www.awmi.net/browse-teaching/the-war-is-over",
+      "category": "grace",
+      "search_tags": [
+        "war is over",
+        "gods love",
+        "end conflict",
+        "god humanity",
+        "reshaped history"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-war-is-over"
+    },
+    {
+      "title": "The Word Became Flesh",
+      "description": "Why did Jesus come as the God-man to redeem us? Discover why and unlock the power of speaking God's Word as a born-again believer!",
+      "redirect": "https://www.awmi.net/browse-teaching/the-word-became-flesh",
+      "category": "salvation",
+      "search_tags": [
+        "word became flesh",
+        "jesus god man",
+        "redeem us",
+        "speaking gods word",
+        "born again"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-word-became-flesh"
+    },
+    {
+      "title": "The Word is the Seed",
+      "description": "Discover the key to understanding Jesus' parables through the parable of the sower. Learn how God's Word transforms lives.",
+      "redirect": "https://www.awmi.net/browse-teaching/the-word-is-the-seed",
+      "category": "bible-study",
+      "search_tags": [
+        "word is seed",
+        "key understanding",
+        "jesus parables",
+        "parable sower",
+        "gods word transforms"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-word-is-the-seed"
+    },
+    {
+      "title": "Twenty Revelations That Will Change Your Life",
+      "description": "Discover life-changing biblical wisdom with Andrew Wommack's mentorship on faith,  finances,  peace,  and discipleship in 'Twenty Revelations' teaching!",
+      "redirect": "https://www.awmi.net/browse-teaching/twenty-revelations-that-will-change-your-life",
+      "category": "christian-living",
+      "search_tags": [
+        "twenty revelations",
+        "change your life",
+        "biblical wisdom",
+        "mentorship",
+        "faith finances peace"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "twenty-revelations-that-will-change-your-life"
+    },
+    {
+      "title": "Walking by Faith",
+      "description": "Feelings or faith? Even when your feelings are in turmoil,  you can walk by faith and not by sight. Find your victory in faith and not emotions!",
+      "redirect": "https://www.awmi.net/browse-teaching/walking-by-faith",
+      "category": "faith",
+      "search_tags": [
+        "walking by faith",
+        "feelings or faith",
+        "feelings turmoil",
+        "walk by faith",
+        "victory not emotions"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "walking-by-faith"
+    },
+    {
+      "title": "Welcome to Your Place Called There",
+      "description": "Learn how bold faith and obedience lead to God's provision at the 'place called there, ' where His plan and purpose unfold.",
+      "redirect": "https://www.awmi.net/browse-teaching/welcome-to-your-place-called-there",
+      "category": "faith",
+      "search_tags": [
+        "welcome place called there",
+        "bold faith",
+        "obedience",
+        "gods provision",
+        "plan purpose"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "welcome-to-your-place-called-there"
+    },
+    {
+      "title": "What is a Christian",
+      "description": "What's the difference between religion and true Christianity? Discover real salvation in Jesus Christ and what a genuine relationship with God looks like!",
+      "redirect": "https://www.awmi.net/browse-teaching/what-is-a-christian",
+      "category": "salvation",
+      "search_tags": [
+        "what is christian",
+        "religion true christianity",
+        "real salvation",
+        "genuine relationship god"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "what-is-a-christian"
+    },
+    {
+      "title": "What Is True Christianity",
+      "description": "Ever wondered what true Christianity really is? It's time to peel back the layers,  debunk common myths,  and discover how you can embrace a life transformed by grace and faith.",
+      "redirect": "https://www.awmi.net/browse-teaching/what-is-true-christianity",
+      "category": "salvation",
+      "search_tags": [
+        "what is true christianity",
+        "peel back layers",
+        "debunk myths",
+        "life transformed grace"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "what-is-true-christianity"
+    },
+    {
+      "title": "What is Truth?",
+      "description": "Learn to build your life on God's truth with Andrew's teaching,  'What Is Truth?' and discover the path to true freedom.",
+      "redirect": "https://www.awmi.net/browse-teaching/what-is-truth",
+      "category": "christian-living",
+      "search_tags": [
+        "what is truth",
+        "build life",
+        "gods truth",
+        "path true freedom"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "what-is-truth"
+    }
+  ],
+  "hasNextPage": true,
+  "hasPrevPage": true,
+  "lastUpdated": "2025-08-29T20:53:40.242Z"
+}
