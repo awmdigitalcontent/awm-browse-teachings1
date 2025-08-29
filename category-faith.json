@@ -1,0 +1,637 @@
+{
+  "success": true,
+  "category": "faith",
+  "total": 27,
+  "teachings": [
+    {
+      "title": "Believer's Authority",
+      "description": "Ready to start living the victorious Christian life? Uncover the spiritual battles at play in your life and learn to wield your God-given authority!",
+      "redirect": "https://www.awmi.net/browse-teaching/believers-authority",
+      "category": "faith",
+      "search_tags": [
+        "authority",
+        "spiritual battles"
+      ],
+      "image": "https://cdn.awmi.net/zype-test/believers-authority.webp",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "Thu Jun 20 2024 01:00:00 GMT-0600 (Mountain Daylight Time)",
+      "id": "believers-authority"
+    },
+    {
+      "title": "Blessings and Miracles",
+      "description": "Did you know it's better to live in God's blessings than to constantly need miracles? Find out how you can go from miracles to blessings today!",
+      "redirect": "https://www.awmi.net/browse-teaching/blessings-and-miracles",
+      "category": "faith",
+      "search_tags": [
+        "blessings",
+        "miracles"
+      ],
+      "image": "https://cdn.awmi.net/zype-test/Blessings-and-Miracles.jpg",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "Thu Jun 20 2024 01:00:00 GMT-0600 (Mountain Daylight Time)",
+      "id": "blessings-and-miracles"
+    },
+    {
+      "title": "Don't Limit God",
+      "description": "The way you see God and yourself might be limiting what He can do in your life. Change the way you think and take the limits off God today!",
+      "redirect": "https://www.awmi.net/browse-teaching/dont-limit-god-2",
+      "category": "faith",
+      "search_tags": [
+        "limit god",
+        "thinking"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "dont-limit-god"
+    },
+    {
+      "title": "Don't Limit God?23rd Anniversary",
+      "description": "Celebrate 25 years of transformative ministry with insights on overcoming small thinking and embracing God's limitless plans. Discover how trusting Him can unlock your greatest potential.",
+      "redirect": "https://www.awmi.net/browse-teaching/dont-limit-god23rd-anniversary",
+      "category": "faith",
+      "search_tags": [
+        "limit god",
+        "anniversary"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "dont-limit-god-23rd-anniversary"
+    },
+    {
+      "title": "Faith Builders",
+      "description": "Faith is essential for pleasing God and overcoming the world. Discover its vital role in your Christian life.",
+      "redirect": "https://www.awmi.net/browse-teaching/faith-builders",
+      "category": "faith",
+      "search_tags": [
+        "faith",
+        "builders"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "faith-builders"
+    },
+    {
+      "title": "Faith Is Based on Knowledge",
+      "description": "Your success hinges on you knowing God's precious promises. Be rooted and grounded in the knowledge of God and watch your faith work effortlessly!",
+      "redirect": "https://www.awmi.net/browse-teaching/faith-is-based-on-knowledge",
+      "category": "faith",
+      "search_tags": [
+        "faith",
+        "knowledge"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "faith-is-based-on-knowledge"
+    },
+    {
+      "title": "Faith of God",
+      "description": "How do you unleash God's supernatural power within you and start overcoming challenges with confidence? Find out how!",
+      "redirect": "https://www.awmi.net/browse-teaching/faith-love-and-war",
+      "category": "faith",
+      "search_tags": [
+        "faith",
+        "supernatural power"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "faith-of-god"
+    },
+    {
+      "title": "How to Become a Water Walker",
+      "description": "Ready to step out of the boat of doubt and walk in God's miraculous power? Find out how to overcome all the storms of life!",
+      "redirect": "https://www.awmi.net/browse-teaching/how-to-become-a-water-walker",
+      "category": "faith",
+      "search_tags": [
+        "water walker",
+        "step out",
+        "boat of doubt",
+        "miraculous power",
+        "overcome storms",
+        "faith walk"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "how-to-become-a-water-walker"
+    },
+    {
+      "title": "How to Overcome Doubt",
+      "description": "Overcome your doubts by placing your faith in a surer word of prophecy (2 Pet. 1:19)? God's precious promises. Find out how!",
+      "redirect": "https://www.awmi.net/browse-teaching/how-to-overcome-doubt",
+      "category": "faith",
+      "search_tags": [
+        "overcome doubt",
+        "doubts",
+        "faith",
+        "surer word",
+        "prophecy",
+        "gods promises"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "how-to-overcome-doubt"
+    },
+    {
+      "title": "How to Receive a Miracle - Part 1",
+      "description": "Discover how to receive a miracle from God through the power of His Word. Plant,  believe,  and receive!",
+      "redirect": "https://www.awmi.net/browse-teaching/how-to-receive-a-miracle-part-1",
+      "category": "faith",
+      "search_tags": [
+        "receive miracle",
+        "part 1",
+        "power of his word",
+        "plant believe receive",
+        "miracles"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "how-to-receive-a-miracle-part-1"
+    },
+    {
+      "title": "How to Receive a Miracle - Part 2",
+      "description": "As a born-again believer,  you already have the faith you need to receive your miracle. Learn how to utilize the faith you've been given in Christ!",
+      "redirect": "https://www.awmi.net/browse-teaching/how-to-receive-a-miracle-part-2",
+      "category": "faith",
+      "search_tags": [
+        "receive miracle",
+        "part 2",
+        "born again believer",
+        "faith you need",
+        "utilize faith",
+        "given in christ"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "how-to-receive-a-miracle-part-2"
+    },
+    {
+      "title": "How to Receive God's Best",
+      "description": "Stop settling for less. Learn to walk in God's blessings instead of always seeking miracles.",
+      "redirect": "https://www.awmi.net/browse-teaching/how-to-receive-gods-best",
+      "category": "faith",
+      "search_tags": [
+        "receive gods best",
+        "stop settling",
+        "gods blessings",
+        "seeking miracles",
+        "walking in blessings"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "how-to-receive-gods-best"
+    },
+    {
+      "title": "It Begins with a Sure Foundation",
+      "description": "Are you ready to experience the miraculous power of God in your life? Plant the seed of God's Word in your heart,  receive your miracle,  and shape your destiny!",
+      "redirect": "https://www.awmi.net/browse-teaching/it-begins-with-a-sure-foundation",
+      "category": "faith",
+      "search_tags": [
+        "sure foundation",
+        "miraculous power",
+        "plant seed",
+        "gods word",
+        "receive miracle",
+        "shape destiny"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "it-begins-with-a-sure-foundation"
+    },
+    {
+      "title": "Lessons from David",
+      "description": "We all face giants in life?problems that seem insurmountable. Like David did when he battled Goliath,  learn how you,  too,  can boldly tackle life's challenges!",
+      "redirect": "https://www.awmi.net/browse-teaching/lessons-from-david",
+      "category": "faith",
+      "search_tags": [
+        "lessons from david",
+        "face giants",
+        "insurmountable problems",
+        "david goliath",
+        "tackle challenges"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "lessons-from-david"
+    },
+    {
+      "title": "Lessons from Elijah",
+      "description": "God has supernatural provision for you,  just as He did for the prophet Elijah! Discover everything you need to succeed in your place called there!\"\"",
+      "redirect": "https://www.awmi.net/browse-teaching/lessons-from-elijah",
+      "category": "faith",
+      "search_tags": [
+        "lessons from elijah",
+        "supernatural provision",
+        "prophet elijah",
+        "succeed",
+        "place called there"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "lessons-from-elijah"
+    },
+    {
+      "title": "Look Up",
+      "description": "Little is much when God is in it. In Christ,  we have more than what you may realize.",
+      "redirect": "https://www.awmi.net/browse-teaching/look-up",
+      "category": "faith",
+      "search_tags": [
+        "look up",
+        "little is much",
+        "god in it",
+        "in christ",
+        "more than realize"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "look-up"
+    },
+    {
+      "title": "Our Authority Releases God's Power",
+      "description": "Walk in your authority as a believer,  healing the sick and releasing God's power everywhere you go. Start living a miraculous life today!",
+      "redirect": "https://www.awmi.net/browse-teaching/our-authority-releases-gods-power",
+      "category": "faith",
+      "search_tags": [
+        "our authority",
+        "releases gods power",
+        "walk in authority",
+        "healing sick",
+        "miraculous life"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "our-authority-releases-gods-power"
+    },
+    {
+      "title": "Power of a Testimony",
+      "description": "Testimonies can elevate your faith to receive from God! Discover how God is the answer to all your problems through these encouraging testimonies.",
+      "redirect": "https://www.awmi.net/browse-teaching/power-of-a-testimony",
+      "category": "faith",
+      "search_tags": [
+        "power testimony",
+        "elevate faith",
+        "receive from god",
+        "answer problems",
+        "encouraging testimonies"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "power-of-a-testimony"
+    },
+    {
+      "title": "Power of Faith-Filled Words",
+      "description": "If you change your words,  you'll change your life. Learn to speak from your God-given authority in Christ and experience more miracles today!",
+      "redirect": "https://www.awmi.net/browse-teaching/power-of-faith-filled-words",
+      "category": "faith",
+      "search_tags": [
+        "power faith filled words",
+        "change words",
+        "change life",
+        "god given authority",
+        "more miracles"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "power-of-faith-filled-words"
+    },
+    {
+      "title": "Power of Hope",
+      "description": "Your faith needs hope to work. Learn how you can use hope and your imagination to receive all God's promises!",
+      "redirect": "https://www.awmi.net/browse-teaching/power-of-hope",
+      "category": "faith",
+      "search_tags": [
+        "power of hope",
+        "faith needs hope",
+        "hope imagination",
+        "receive gods promises"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "power-of-hope"
+    },
+    {
+      "title": "Spiritual Authority",
+      "description": "As a born-again child of God,  you don't have to live life afraid of the devil. Find out how to use your spiritual authority,  like Tori did!",
+      "redirect": "https://www.awmi.net/browse-teaching/spiritual-authority",
+      "category": "faith",
+      "search_tags": [
+        "spiritual authority",
+        "born again",
+        "child of god",
+        "not afraid devil",
+        "use authority"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "spiritual-authority"
+    },
+    {
+      "title": "Taking the Limits off God",
+      "description": "Can God be limited? Andrew answers this important question in this teaching series.",
+      "redirect": "https://www.awmi.net/browse-teaching/taking-the-limits-off-god",
+      "category": "faith",
+      "search_tags": [
+        "taking limits off god",
+        "can god limited",
+        "important question",
+        "teaching series"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "taking-the-limits-off-god"
+    },
+    {
+      "title": "The Reality of Faith",
+      "description": "Though you can't touch it,  faith is real. Are you ready to experience the reality of faith and watch unseen miracles become visible in your life? Find out how!",
+      "redirect": "https://www.awmi.net/browse-teaching/the-reality-of-faith",
+      "category": "faith",
+      "search_tags": [
+        "reality of faith",
+        "cant touch",
+        "faith real",
+        "unseen miracles",
+        "become visible"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "the-reality-of-faith"
+    },
+    {
+      "title": "Walking by Faith",
+      "description": "Feelings or faith? Even when your feelings are in turmoil,  you can walk by faith and not by sight. Find your victory in faith and not emotions!",
+      "redirect": "https://www.awmi.net/browse-teaching/walking-by-faith",
+      "category": "faith",
+      "search_tags": [
+        "walking by faith",
+        "feelings or faith",
+        "feelings turmoil",
+        "walk by faith",
+        "victory not emotions"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "walking-by-faith"
+    },
+    {
+      "title": "Welcome to Your Place Called There",
+      "description": "Learn how bold faith and obedience lead to God's provision at the 'place called there, ' where His plan and purpose unfold.",
+      "redirect": "https://www.awmi.net/browse-teaching/welcome-to-your-place-called-there",
+      "category": "faith",
+      "search_tags": [
+        "welcome place called there",
+        "bold faith",
+        "obedience",
+        "gods provision",
+        "plan purpose"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "welcome-to-your-place-called-there"
+    },
+    {
+      "title": "What's In Your Hand?",
+      "description": "Discover the power of faith in Elisha's story. Learn to focus on what you have and prepare for God's multiplication.",
+      "redirect": "https://www.awmi.net/browse-teaching/whats-in-your-hand",
+      "category": "faith",
+      "search_tags": [
+        "whats in your hand",
+        "power of faith",
+        "elishas story",
+        "focus what you have",
+        "gods multiplication"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "whats-in-your-hand"
+    },
+    {
+      "title": "You've Already Got It!",
+      "description": "Discover the powerful truth: God has already provided healing,  prosperity,  and blessings. You don't need to beg; just believe. Find out how!",
+      "redirect": "https://www.awmi.net/browse-teaching/youve-already-got-it",
+      "category": "faith",
+      "search_tags": [
+        "youve already got it",
+        "powerful truth",
+        "already provided",
+        "dont beg believe",
+        "healing prosperity"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "youve-already-got-it"
+    }
+  ],
+  "lastUpdated": "2025-08-29T20:38:40.729Z"
+}
