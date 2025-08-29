@@ -1,0 +1,311 @@
+{
+  "success": true,
+  "page": 6,
+  "limit": 12,
+  "total": 181,
+  "totalPages": 16,
+  "count": 12,
+  "teachings": [
+    {
+      "title": "Healing Truth and Testimonies",
+      "description": "God's desire is for you to live whole and healed.",
+      "redirect": "https://www.awmi.net/browse-teaching/healing-truth-and-testimonies",
+      "category": "healing",
+      "search_tags": [
+        "healing truth",
+        "testimonies",
+        "gods desire",
+        "live whole",
+        "healed",
+        "healing testimonies"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "healing-truth-and-testimonies"
+    },
+    {
+      "title": "Hebrews Highlights: What Do You Believe?",
+      "description": "A New Covenant relationship with God is one where you can boldly approach Him and live free from sin-consciousness. Find out how!",
+      "redirect": "https://www.awmi.net/browse-teaching/hebrews-highlights-what-do-you-believe",
+      "category": "grace",
+      "search_tags": [
+        "hebrews highlights",
+        "what do you believe",
+        "new covenant",
+        "boldly approach",
+        "free from sin consciousness"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "hebrews-highlights-what-do-you-believe"
+    },
+    {
+      "title": "Hebrews: Living in the New Covenant Reality",
+      "description": "Are you missing out on true freedom? Andrew Wommack's Hebrews: Living in the New Covenant Reality can help you understand God's grace so you can start walking with Christ in real victory.",
+      "redirect": "https://www.awmi.net/browse-teaching/hebrews-living-in-the-new-covenant-reality-part-1",
+      "category": "grace",
+      "search_tags": [
+        "hebrews",
+        "new covenant reality",
+        "true freedom",
+        "gods grace",
+        "walking with christ",
+        "victory"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "hebrews-living-in-the-new-covenant-reality"
+    },
+    {
+      "title": "Hell - A Reality or a Metaphor?",
+      "description": "Is hell real? And if so,  what does that mean for you? Discover the importance of accepting God's grace through Jesus in this eye-opening teaching!",
+      "redirect": "https://www.awmi.net/browse-teaching/hell-a-reality-or-a-metaphor",
+      "category": "salvation",
+      "search_tags": [
+        "hell",
+        "reality",
+        "metaphor",
+        "hell real",
+        "gods grace",
+        "jesus",
+        "salvation"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "hell-a-reality-or-a-metaphor"
+    },
+    {
+      "title": "Holy Spirit",
+      "description": "God has an important gift for every born-again believer. Discover the truth behind the baptism of the Holy Spirit!",
+      "redirect": "https://www.awmi.net/browse-teaching/holy-spirit",
+      "category": "holy-spirit",
+      "search_tags": [
+        "holy spirit",
+        "important gift",
+        "born again believer",
+        "baptism holy spirit",
+        "truth"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "holy-spirit"
+    },
+    {
+      "title": "How to Be Happy",
+      "description": "Do you want joy in every circumstance,  like the Apostle Paul had? Discover the keys to true happiness,  contentment,  and joy in this life-changing teaching!",
+      "redirect": "https://www.awmi.net/browse-teaching/how-to-be-happy",
+      "category": "emotions",
+      "search_tags": [
+        "how to be happy",
+        "joy",
+        "every circumstance",
+        "apostle paul",
+        "true happiness",
+        "contentment"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "how-to-be-happy"
+    },
+    {
+      "title": "How to Become a Water Walker",
+      "description": "Ready to step out of the boat of doubt and walk in God's miraculous power? Find out how to overcome all the storms of life!",
+      "redirect": "https://www.awmi.net/browse-teaching/how-to-become-a-water-walker",
+      "category": "faith",
+      "search_tags": [
+        "water walker",
+        "step out",
+        "boat of doubt",
+        "miraculous power",
+        "overcome storms",
+        "faith walk"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "how-to-become-a-water-walker"
+    },
+    {
+      "title": "How to Find God's Will",
+      "description": "You can uncover God's unique plan for your life and step into His perfect will. Find out how!",
+      "redirect": "https://www.awmi.net/browse-teaching/how-to-find-follow-fulfill-gods-will",
+      "category": "christian-living",
+      "search_tags": [
+        "find gods will",
+        "unique plan",
+        "step into",
+        "perfect will",
+        "gods plan",
+        "life purpose"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "how-to-find-gods-will"
+    },
+    {
+      "title": "How to Find,  Follow,  Fulfill God's Will",
+      "description": "Uncover how to find,  follow,  and fulfill God's purpose for your life. Learn why you were created with a divine destiny and how actively pursuing His plan leads to true fulfillment.",
+      "redirect": "https://www.awmi.net/browse-teaching/how-to-find-gods-will",
+      "category": "christian-living",
+      "search_tags": [
+        "find follow fulfill",
+        "gods will",
+        "gods purpose",
+        "divine destiny",
+        "pursuing gods plan",
+        "true fulfillment"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "how-to-find-follow-fulfill-gods-will"
+    },
+    {
+      "title": "How to Flow in the Gifts of the Holy Spirit",
+      "description": "Tap into the supernatural power of God by learning how to operate in the gifts of the Holy Spirit. Live the authentic,  on-fire Christian life!",
+      "redirect": "https://www.awmi.net/browse-teaching/how-to-flow-in-the-gifts-of-the-holy-spirit",
+      "category": "holy-spirit",
+      "search_tags": [
+        "flow in gifts",
+        "holy spirit gifts",
+        "supernatural power",
+        "operate in gifts",
+        "authentic christian life",
+        "on fire"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "how-to-flow-in-the-gifts-of-the-holy-spirit"
+    },
+    {
+      "title": "How to Follow God's Will",
+      "description": "As true disciples of Jesus Christ,  we're called to follow Him,  but how? Discover how you can align yourself with God's will today!",
+      "redirect": "https://www.awmi.net/browse-teaching/how-to-follow-gods-will",
+      "category": "christian-living",
+      "search_tags": [
+        "follow gods will",
+        "true disciples",
+        "called to follow",
+        "align with gods will",
+        "discipleship"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "how-to-follow-gods-will"
+    },
+    {
+      "title": "How to Fulfill God's Will",
+      "description": "Fulfilling God's will requires focus,  endurance,  and a victorious mindset. Overcome life's hurdles and finish your race with grace!",
+      "redirect": "https://www.awmi.net/browse-teaching/how-to-fulfill-gods-will",
+      "category": "christian-living",
+      "search_tags": [
+        "fulfill gods will",
+        "focus",
+        "endurance",
+        "victorious mindset",
+        "overcome hurdles",
+        "finish race"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "how-to-fulfill-gods-will"
+    }
+  ],
+  "hasNextPage": true,
+  "hasPrevPage": true,
+  "lastUpdated": "2025-08-29T20:53:40.242Z"
+}
