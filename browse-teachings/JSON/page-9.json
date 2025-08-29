@@ -1,0 +1,299 @@
+{
+  "success": true,
+  "page": 9,
+  "limit": 12,
+  "total": 181,
+  "totalPages": 16,
+  "count": 12,
+  "teachings": [
+    {
+      "title": "Living in God's Best - Don't Settle for Less",
+      "description": "What's God's part and what's our part? How do you balance grace and faith? Explore this balance and embrace a life filled with purpose and freedom!",
+      "redirect": "https://www.awmi.net/browse-teaching/living-in-gods-best-dont-settle-for-less",
+      "category": "grace",
+      "search_tags": [
+        "living gods best",
+        "dont settle",
+        "gods part",
+        "balance grace faith",
+        "purpose freedom"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "living-in-gods-best-dont-settle-for-less"
+    },
+    {
+      "title": "Living in the Balance of Grace and Faith",
+      "description": "What's God's part and what's our part? How do you balance grace and faith? Explore this balance and embrace a life filled with purpose and freedom!",
+      "redirect": "https://www.awmi.net/browse-teaching/living-in-the-balance-of-grace-and-faith",
+      "category": "grace",
+      "search_tags": [
+        "balance grace faith",
+        "gods part",
+        "our part",
+        "purpose freedom",
+        "grace and faith"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "living-in-the-balance-of-grace-and-faith"
+    },
+    {
+      "title": "Look Up",
+      "description": "Little is much when God is in it. In Christ,  we have more than what you may realize.",
+      "redirect": "https://www.awmi.net/browse-teaching/look-up",
+      "category": "faith",
+      "search_tags": [
+        "look up",
+        "little is much",
+        "god in it",
+        "in christ",
+        "more than realize"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "look-up"
+    },
+    {
+      "title": "Look Who Jesus Loves",
+      "description": "God loves you! While that statement may sound bold,  it's undeniably true. Radically encounter God's life-changing and transformational love today!",
+      "redirect": "https://www.awmi.net/browse-teaching/look-who-jesus-loves",
+      "category": "love",
+      "search_tags": [
+        "look who jesus loves",
+        "god loves you",
+        "bold statement",
+        "life changing",
+        "transformational love"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "look-who-jesus-loves"
+    },
+    {
+      "title": "Meditation",
+      "description": "Discover the power of meditation in your relationship with God with Andrew's insightful teaching on its importance and practice.",
+      "redirect": "https://www.awmi.net/browse-teaching/meditation",
+      "category": "christian-living",
+      "search_tags": [
+        "meditation",
+        "power of meditation",
+        "relationship with god",
+        "importance",
+        "practice"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "meditation"
+    },
+    {
+      "title": "More Grace More Favor",
+      "description": "Discover the transformative power of humility in Andrew's teaching. Embrace God's character and unlock the blessings of a humble heart.",
+      "redirect": "https://www.awmi.net/browse-teaching/more-grace-more-favor",
+      "category": "christian-living",
+      "search_tags": [
+        "more grace favor",
+        "transformative power",
+        "humility",
+        "gods character",
+        "humble heart"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "more-grace-more-favor"
+    },
+    {
+      "title": "New You",
+      "description": "What does it mean to be saved? There's only one way to approach God and receive the free gift of salvation. Find the only way to eternal life!",
+      "redirect": "https://www.awmi.net/browse-teaching/new-you",
+      "category": "salvation",
+      "search_tags": [
+        "new you",
+        "what means saved",
+        "approach god",
+        "free gift salvation",
+        "eternal life"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "new-you"
+    },
+    {
+      "title": "Observing All Things",
+      "description": "Don't exclude Jesus from certain areas of your life! Let the Bible have the final say on what you believe. Find out how!",
+      "redirect": "https://www.awmi.net/browse-teaching/observing-all-things",
+      "category": "christian-living",
+      "search_tags": [
+        "observing all things",
+        "exclude jesus",
+        "bible final say",
+        "what you believe"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "observing-all-things"
+    },
+    {
+      "title": "Our Authority Releases God's Power",
+      "description": "Walk in your authority as a believer,  healing the sick and releasing God's power everywhere you go. Start living a miraculous life today!",
+      "redirect": "https://www.awmi.net/browse-teaching/our-authority-releases-gods-power",
+      "category": "faith",
+      "search_tags": [
+        "our authority",
+        "releases gods power",
+        "walk in authority",
+        "healing sick",
+        "miraculous life"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "our-authority-releases-gods-power"
+    },
+    {
+      "title": "Our Sabbath Rest",
+      "description": "Explore the Sabbath's significance as a shadow of Jesus' work. Learn to trust in His completed work for true rest.",
+      "redirect": "https://www.awmi.net/browse-teaching/our-sabbath-rest",
+      "category": "christian-living",
+      "search_tags": [
+        "our sabbath rest",
+        "sabbaths significance",
+        "shadow jesus work",
+        "completed work",
+        "true rest"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "our-sabbath-rest"
+    },
+    {
+      "title": "Paul's Letters to the Galatians",
+      "description": "Explore Paul's bold letter to the Galatians as he confronts legalism and reaffirms the powerful truths of grace.",
+      "redirect": "https://www.awmi.net/browse-teaching/pauls-letters-to-the-galatians",
+      "category": "grace",
+      "search_tags": [
+        "pauls letters galatians",
+        "bold letter",
+        "confronts legalism",
+        "powerful truths grace"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "pauls-letters-to-the-galatians"
+    },
+    {
+      "title": "Paul's Secret's to Happiness",
+      "description": "Unlink your happiness from your circumstances?just like the Apostle Paul did. Learn how to be content and joyful in every situation!",
+      "redirect": "https://www.awmi.net/browse-teaching/pauls-secrets-to-happiness",
+      "category": "emotions",
+      "search_tags": [
+        "pauls secrets happiness",
+        "unlink happiness",
+        "circumstances",
+        "apostle paul",
+        "content joyful"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "pauls-secrets-to-happiness"
+    }
+  ],
+  "hasNextPage": true,
+  "hasPrevPage": true,
+  "lastUpdated": "2025-08-29T22:00:51.873Z"
+}
