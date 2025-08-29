@@ -1,0 +1,267 @@
+{
+  "success": true,
+  "page": 3,
+  "limit": 12,
+  "total": 181,
+  "totalPages": 16,
+  "count": 12,
+  "teachings": [
+    {
+      "title": "Don't Limit God?23rd Anniversary",
+      "description": "Celebrate 25 years of transformative ministry with insights on overcoming small thinking and embracing God's limitless plans. Discover how trusting Him can unlock your greatest potential.",
+      "redirect": "https://www.awmi.net/browse-teaching/dont-limit-god23rd-anniversary",
+      "category": "faith",
+      "search_tags": [
+        "limit god",
+        "anniversary"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "dont-limit-god-23rd-anniversary"
+    },
+    {
+      "title": "Dwelling in God's Presence",
+      "description": "Discover how abiding in God's presence unlocks His promises. Learn from Andrew the importance of consistent connection for victorious living.",
+      "redirect": "https://www.awmi.net/browse-teaching/dwelling-in-gods-presence",
+      "category": "relationship-with-god",
+      "search_tags": [
+        "dwelling",
+        "presence"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "dwelling-in-gods-presence"
+    },
+    {
+      "title": "Effective Prayer",
+      "description": "Hypocrites love to pray. There are right and wrong ways to pray.",
+      "redirect": "https://www.awmi.net/browse-teaching/effective-prayer",
+      "category": "prayer",
+      "search_tags": [
+        "effective prayer",
+        "hypocrites"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "effective-prayer"
+    },
+    {
+      "title": "Effects of Praise",
+      "description": "Discover how praise affects you,  God,  and the devil. Increase your faith,  overcome challenges,  and experience joy through the power of praise!",
+      "redirect": "https://www.awmi.net/browse-teaching/effects-of-praise",
+      "category": "worship",
+      "search_tags": [
+        "praise",
+        "effects"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "effects-of-praise"
+    },
+    {
+      "title": "Effortless Change",
+      "description": "Is it possible to experience God's abundant life effortlessly? Let go of the striving and struggling and learn how God's Word can transform your life beyond your expectations.",
+      "redirect": "https://www.awmi.net/browse-teaching/effortless-change",
+      "category": "christian-living",
+      "search_tags": [
+        "effortless change",
+        "abundant life"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "effortless-change"
+    },
+    {
+      "title": "Eternal Life: There's More to It Than You Think",
+      "description": "The secret to true eternal life is a personal,  intimate relationship with God. Don't wait till you get to heaven to start experiencing eternal life!",
+      "redirect": "https://www.awmi.net/browse-teaching/eternal-life-theres-more-to-it-than-you-think",
+      "category": "salvation",
+      "search_tags": [
+        "eternal life",
+        "relationship"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "eternal-life-theres-more-to-it-than-you-think"
+    },
+    {
+      "title": "Excellence: How to Pursue an Excellent Spirit",
+      "description": "God desires to promote you,  but you determine if you're promoted. You must choose to have an excellent spirit.",
+      "redirect": "https://www.awmi.net/browse-teaching/excellence-how-to-pursue-an-excellent-spirit",
+      "category": "christian-living",
+      "search_tags": [
+        "excellence",
+        "spirit"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "excellence-how-to-pursue-an-excellent-spirit"
+    },
+    {
+      "title": "Faith Builders",
+      "description": "Faith is essential for pleasing God and overcoming the world. Discover its vital role in your Christian life.",
+      "redirect": "https://www.awmi.net/browse-teaching/faith-builders",
+      "category": "faith",
+      "search_tags": [
+        "faith",
+        "builders"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "faith-builders"
+    },
+    {
+      "title": "Faith for Healing Is Based on Knowledge",
+      "description": "Ready to walk in your authority in Christ and experience God's healing power? Learn how!",
+      "redirect": "https://www.awmi.net/browse-teaching/faith-for-healing-is-based-on-knowledge",
+      "category": "healing",
+      "search_tags": [
+        "faith",
+        "healing",
+        "knowledge"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "faith-for-healing-is-based-on-knowledge"
+    },
+    {
+      "title": "Faith Is Based on Knowledge",
+      "description": "Your success hinges on you knowing God's precious promises. Be rooted and grounded in the knowledge of God and watch your faith work effortlessly!",
+      "redirect": "https://www.awmi.net/browse-teaching/faith-is-based-on-knowledge",
+      "category": "faith",
+      "search_tags": [
+        "faith",
+        "knowledge"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "faith-is-based-on-knowledge"
+    },
+    {
+      "title": "Faith of God",
+      "description": "How do you unleash God's supernatural power within you and start overcoming challenges with confidence? Find out how!",
+      "redirect": "https://www.awmi.net/browse-teaching/faith-love-and-war",
+      "category": "faith",
+      "search_tags": [
+        "faith",
+        "supernatural power"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "faith-of-god"
+    },
+    {
+      "title": "Faith,  Love,  and War",
+      "description": "Learn from Andrew Wommack,  Duane Sheriff,  and Bob Yandian on how Christians should respond to America's increasing ungodliness.",
+      "redirect": "https://www.awmi.net/browse-teaching/faith-of-god",
+      "category": "christian-living",
+      "search_tags": [
+        "faith",
+        "love",
+        "war"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "faith-love-and-war"
+    }
+  ],
+  "hasNextPage": true,
+  "hasPrevPage": true,
+  "lastUpdated": "2025-08-29T20:53:40.242Z"
+}
