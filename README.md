@@ -1,1 +1,0 @@
-# awm-browse-teachings1
