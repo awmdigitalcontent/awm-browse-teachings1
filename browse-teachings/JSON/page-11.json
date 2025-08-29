@@ -1,0 +1,298 @@
+{
+  "success": true,
+  "page": 11,
+  "limit": 12,
+  "total": 181,
+  "totalPages": 16,
+  "count": 12,
+  "teachings": [
+    {
+      "title": "Redemption",
+      "description": "The radical truth is that sin is no longer an issue with God. Find complete forgiveness and your redemption in the precious blood of Jesus!",
+      "redirect": "https://www.awmi.net/browse-teaching/redemption",
+      "category": "grace",
+      "search_tags": [
+        "redemption",
+        "radical truth",
+        "sin not issue",
+        "complete forgiveness",
+        "precious blood jesus"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "redemption"
+    },
+    {
+      "title": "Relationship with God",
+      "description": "You can know God through His Word (2 Pet. 1:19) and resist Satan's lies. Deepen your relationship with God through His Word today!",
+      "redirect": "https://www.awmi.net/browse-teaching/relationship-with-god",
+      "category": "relationship-with-god",
+      "search_tags": [
+        "relationship with god",
+        "know god",
+        "through his word",
+        "resist satan",
+        "deepen relationship"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "relationship-with-god"
+    },
+    {
+      "title": "Revelation Knowledge",
+      "description": "Freedom is found in the revelation of God's Word (John 8:31?32 and Rom. 12:1?2). Learn how to receive revelation knowledge and completely transform your life!",
+      "redirect": "https://www.awmi.net/browse-teaching/revelation-knowledge",
+      "category": "bible-study",
+      "search_tags": [
+        "revelation knowledge",
+        "freedom",
+        "gods word",
+        "receive revelation",
+        "transform life"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "revelation-knowledge"
+    },
+    {
+      "title": "Romans",
+      "description": "Do you want a closer relationship with God? Discover God's endless love for you and what the true Gospel of grace really is!",
+      "redirect": "https://www.awmi.net/browse-teaching/romans",
+      "category": "grace",
+      "search_tags": [
+        "romans",
+        "closer relationship",
+        "gods endless love",
+        "true gospel grace"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "romans"
+    },
+    {
+      "title": "Romans Highlights",
+      "description": "Uncover the Gospel truth in Romans: righteousness by grace,  not works. Break free from religion and step into the freedom Christ paid for.",
+      "redirect": "https://www.awmi.net/browse-teaching/romans-highlights",
+      "category": "grace",
+      "search_tags": [
+        "romans highlights",
+        "gospel truth",
+        "righteousness grace",
+        "not works",
+        "freedom christ"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "romans-highlights"
+    },
+    {
+      "title": "Seven Steps to Victory",
+      "description": "Discover seven biblical steps to fulfill God's calling in your life. Andrew guides you from uncertainty to purpose with confidence.",
+      "redirect": "https://www.awmi.net/browse-teaching/seven-steps-to-victory",
+      "category": "christian-living",
+      "search_tags": [
+        "seven steps victory",
+        "biblical steps",
+        "fulfill gods calling",
+        "uncertainty to purpose",
+        "confidence"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "seven-steps-to-victory"
+    },
+    {
+      "title": "Sharper Than a Two-Edged Sword",
+      "description": "Do you want to grow in the Lord with a revelation of Him through His Word? Uncover God as your Healer with the powerful testimony of Hannah Terradez!",
+      "redirect": "https://www.awmi.net/browse-teaching/sharper-than-a-two-edged-sword",
+      "category": "bible-study",
+      "search_tags": [
+        "sharper two edged sword",
+        "grow in lord",
+        "revelation through word",
+        "god healer",
+        "hannah terradez"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "sharper-than-a-two-edged-sword"
+    },
+    {
+      "title": "Source of All Grief",
+      "description": "Shift your focus and break free from the root cause of all grief today!",
+      "redirect": "https://www.awmi.net/browse-teaching/source-of-all-grief",
+      "category": "emotions",
+      "search_tags": [
+        "source all grief",
+        "shift focus",
+        "break free",
+        "root cause grief"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "source-of-all-grief"
+    },
+    {
+      "title": "Sovereignty of God",
+      "description": "Is God truly responsible for everything in your life? He is often blamed for evil things He didn't do. Find out the surprising truth about God's true nature!",
+      "redirect": "https://www.awmi.net/browse-teaching/sovereignty-of-god",
+      "category": "christian-living",
+      "search_tags": [
+        "sovereignty of god",
+        "god responsible",
+        "blamed for evil",
+        "surprising truth",
+        "gods true nature"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "sovereignty-of-god"
+    },
+    {
+      "title": "Sowers and Eaters",
+      "description": "Are you sowing seeds or consuming them? Discover the power in thinking like a sower and not an eater!",
+      "redirect": "https://www.awmi.net/browse-teaching/sowers-and-eaters",
+      "category": "finances",
+      "search_tags": [
+        "sowers and eaters",
+        "sowing seeds",
+        "consuming",
+        "thinking like sower",
+        "not eater"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "sowers-and-eaters"
+    },
+    {
+      "title": "Sowers Sow the Word",
+      "description": "Unlock the key to all parables with the sower's story. Discover why your life may lack fruit and how to change it.",
+      "redirect": "https://www.awmi.net/browse-teaching/sowers-sow-the-word",
+      "category": "bible-study",
+      "search_tags": [
+        "sowers sow word",
+        "key all parables",
+        "sowers story",
+        "life lack fruit",
+        "how to change"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "sowers-sow-the-word"
+    },
+    {
+      "title": "Spirit,  Soul and Body",
+      "description": "What happened when you became a born-again believer? Find out your real identity in Christ and live a life of total victory today!",
+      "redirect": "https://www.awmi.net/browse-teaching/spirit-soul-and-body",
+      "category": "salvation",
+      "search_tags": [
+        "spirit soul body",
+        "born again believer",
+        "real identity christ",
+        "total victory"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "spirit-soul-and-body"
+    }
+  ],
+  "hasNextPage": true,
+  "hasPrevPage": true,
+  "lastUpdated": "2025-08-29T22:00:51.873Z"
+}
