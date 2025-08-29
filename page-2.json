@@ -1,0 +1,266 @@
+{
+  "success": true,
+  "page": 2,
+  "limit": 12,
+  "total": 181,
+  "totalPages": 16,
+  "count": 12,
+  "teachings": [
+    {
+      "title": "Choose Life!",
+      "description": "Learn to integrate your faith fully,  ensuring the Bible influences every aspect of your life as a true Christian.",
+      "redirect": "https://www.awmi.net/browse-teaching/choose-life",
+      "category": "christian-living",
+      "search_tags": [
+        "choose life",
+        "faith"
+      ],
+      "image": "https://cdn.awmi.net/zype-test/choose-life.webp",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "Tue Jul 23 2024 01:00:00 GMT-0600 (Mountain Daylight Time)",
+      "id": "choose-life"
+    },
+    {
+      "title": "Christian First Aid Kit",
+      "description": "Facing a crisis? Preventing a troubled heart can bring peace and strength in every situation. Find out how!",
+      "redirect": "https://www.awmi.net/browse-teaching/christian-first-aid-kit",
+      "category": "christian-living",
+      "search_tags": [
+        "crisis",
+        "first aid"
+      ],
+      "image": "https://cdn.awmi.net/zype-test/christian-first-aid.webp",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "Thu Jun 20 2024 01:00:00 GMT-0600 (Mountain Daylight Time)",
+      "id": "christian-first-aid-kit"
+    },
+    {
+      "title": "Christian Philosophy",
+      "description": "Does your way of thinking align with God's? What does the Bible say about major issues? Find out and protect yourself from deception!",
+      "redirect": "https://www.awmi.net/browse-teaching/christian-philosophy-2",
+      "category": "christian-living",
+      "search_tags": [
+        "christian philosophy",
+        "thinking"
+      ],
+      "image": "https://cdn.awmi.net/zype-test/christian-philosophy.webp",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "Mon Jul 01 2024 01:00:00 GMT-0600 (Mountain Daylight Time)",
+      "id": "christian-philosophy"
+    },
+    {
+      "title": "Christians and Politics",
+      "description": "The Gospel has the power to transform an entire nation. Discover the importance of boldly sharing the good news of Jesus Christ within your sphere of influence!",
+      "redirect": "https://www.awmi.net/browse-teaching/christians-and-politics",
+      "category": "christian-living",
+      "search_tags": [
+        "christians",
+        "politics",
+        "gospel"
+      ],
+      "image": "https://cdn.awmi.net/zype-test/christians-and-politics.webp",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "christians-and-politics"
+    },
+    {
+      "title": "Christians: Citizens and Disciples",
+      "description": "Learn how you can change lives through true discipleship and help transform nations with God's love!",
+      "redirect": "https://www.awmi.net/browse-teaching/christians-citizens-and-disciples",
+      "category": "discipleship",
+      "search_tags": [
+        "citizens",
+        "discipleship"
+      ],
+      "image": "https://cdn.awmi.net/zype-test/andrewwomack-1920x1081.webp",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "christians-citizens-and-disciples"
+    },
+    {
+      "title": "Dealing with Temptation",
+      "description": "Confronting temptation? God's Word and embracing your identity in Christ can lead to victory over temptation and sin. Find out how!",
+      "redirect": "https://www.awmi.net/browse-teaching/dealing-with-temptation",
+      "category": "christian-living",
+      "search_tags": [
+        "temptation",
+        "victory"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "dealing-with-temptation"
+    },
+    {
+      "title": "Decisions Determine Destiny",
+      "description": "Every decision you make is moving you closer to or further away from your God-ordained destiny. Make confident godly decisions that propel you toward your destiny!",
+      "redirect": "https://www.awmi.net/browse-teaching/decisions-determine-destiny",
+      "category": "christian-living",
+      "search_tags": [
+        "decisions",
+        "destiny"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "decisions-determine-destiny"
+    },
+    {
+      "title": "Discipleship Evangelism",
+      "description": "Discover why only 15% of believers continue in faith. Learn the difference between conversion and lifelong discipleship.",
+      "redirect": "https://www.awmi.net/browse-teaching/discipleship-evangelism",
+      "category": "discipleship",
+      "search_tags": [
+        "discipleship",
+        "evangelism"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "discipleship-evangelism"
+    },
+    {
+      "title": "Discipleship Versus Evangelism",
+      "description": "Discover what salvation is and the difference between conversion and discipleship. Learn how to easily disciple your friends and neighbors!",
+      "redirect": "https://www.awmi.net/browse-teaching/discipleship-the-path-to-freedom",
+      "category": "discipleship",
+      "search_tags": [
+        "discipleship",
+        "evangelism"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "discipleship-versus-evangelism"
+    },
+    {
+      "title": "Discipleship: The Path to Freedom",
+      "description": "Discover how to become a disciple,  abide in the Word,  and triumph through hardship.",
+      "redirect": "https://www.awmi.net/browse-teaching/discipleship-versus-evangelism",
+      "category": "discipleship",
+      "search_tags": [
+        "discipleship",
+        "freedom"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "discipleship-the-path-to-freedom"
+    },
+    {
+      "title": "Discover the Keys to Staying Full of God",
+      "description": "Discover how to maintain a deep,  lasting relationship with God?not just for a moment,  but for a lifetime. Learn the four keys to staying full of His love and presence every day.",
+      "redirect": "https://www.awmi.net/browse-teaching/discover-the-keys",
+      "category": "relationship-with-god",
+      "search_tags": [
+        "keys",
+        "staying full"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "discover-the-keys"
+    },
+    {
+      "title": "Don't Limit God",
+      "description": "The way you see God and yourself might be limiting what He can do in your life. Change the way you think and take the limits off God today!",
+      "redirect": "https://www.awmi.net/browse-teaching/dont-limit-god-2",
+      "category": "faith",
+      "search_tags": [
+        "limit god",
+        "thinking"
+      ],
+      "image": "",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "dont-limit-god"
+    }
+  ],
+  "hasNextPage": true,
+  "hasPrevPage": true,
+  "lastUpdated": "2025-08-29T20:53:40.242Z"
+}
