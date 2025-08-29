@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "timestamp": "2025-08-29T21:28:47.083Z",
+  "meta": {
+    "totalApproved": 6,
+    "yearCounts": {
+      "2025": 6
+    },
+    "categoryCounts": {
+      "Healing": 1,
+      "Prosperity": 1,
+      "Relationships": 1,
+      "Faith": 1,
+      "General": 1,
+      "Healing, Relationships, Faith": 1
+    }
+  }
+}
