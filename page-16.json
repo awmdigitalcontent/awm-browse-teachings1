@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "page": 16,
+  "limit": 12,
+  "total": 181,
+  "totalPages": 16,
+  "count": 1,
+  "teachings": [
+    {
+      "title": "Your Identity in Christ",
+      "description": "Resolve Christian identity crises by understanding your true self in Christ. Andrew's teaching offers clarity and transformation.",
+      "redirect": "https://www.awmi.net/browse-teaching/your-identity-in-christ",
+      "category": "salvation",
+      "search_tags": [
+        "your identity christ",
+        "resolve identity crises",
+        "true self christ",
+        "clarity transformation"
+      ],
+      "image": "https://cdn.awmi.net/zype-test/your-identity-in-christ.webp",
+      "formats": [
+        "Video",
+        "Audio",
+        "Article"
+      ],
+      "author_speaker": "Andrew Wommack",
+      "featured": "no",
+      "status": "active",
+      "date_added": "",
+      "id": "your-identity-in-christ"
+    }
+  ],
+  "hasNextPage": false,
+  "hasPrevPage": true,
+  "lastUpdated": "2025-08-29T20:53:40.242Z"
+}
